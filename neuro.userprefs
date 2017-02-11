@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{AC3C1614-F13D-4288-9351-CE141231C70C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="neuro/neuron.cs">
+    <Files>
+      <File FileName="neuro/NeuroNW.cs" Line="1" Column="1" />
+      <File FileName="neuro/neuron.cs" Line="6" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.neuro PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

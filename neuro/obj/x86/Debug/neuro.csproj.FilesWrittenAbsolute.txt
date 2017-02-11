@@ -1,0 +1,5 @@
+/home/panda/Projects/neuro/neuro/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/panda/Projects/neuro/neuro/bin/Debug/neuro.exe.mdb
+/home/panda/Projects/neuro/neuro/bin/Debug/neuro.exe
+/home/panda/Projects/neuro/neuro/obj/x86/Debug/neuro.exe
+/home/panda/Projects/neuro/neuro/obj/x86/Debug/neuro.exe.mdb
