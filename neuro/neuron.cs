@@ -3,15 +3,12 @@ namespace neuro
 {
 	public class neuron
 	{
-		private double _inputs;
-		private double[] _weights;
-		public neuron(int inputs, double[] weights)
+		double _inputs;
+		public double[] _weights;
+		public neuron(int inputs)
 		{
-			if (inputs == weights.Length)
-			{
 				_inputs = inputs;
-				_weights = weights;
-			}
+				_weights = new double[inputs];
 		}
 		private double summator(double[] signal)
 		{
@@ -24,7 +21,7 @@ namespace neuro
 		}
 		public double Answer(double[] signal)
 		{
-			return 2/1+(Math.Pow(Math.E,-1*summator(signal)))-1;
+			return 1/(1+Math.Exp(-summator(signal)));
 
 		}
 	}
